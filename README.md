@@ -1,1 +1,1 @@
-Happ with [ALX](https://www.alxafrica.com/)
+Happy with [ALX](https://www.alxafrica.com/)
